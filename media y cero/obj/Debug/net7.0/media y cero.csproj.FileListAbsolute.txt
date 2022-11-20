@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\visual estudio\media y cero\bin\Debug\net7.0\media y cero.exe
+C:\Users\HP\Documents\visual estudio\media y cero\bin\Debug\net7.0\media y cero.deps.json
+C:\Users\HP\Documents\visual estudio\media y cero\bin\Debug\net7.0\media y cero.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\media y cero\bin\Debug\net7.0\media y cero.dll
+C:\Users\HP\Documents\visual estudio\media y cero\bin\Debug\net7.0\media y cero.pdb
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.dll
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\refint\media y cero.dll
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.pdb
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\media y cero.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\media y cero\obj\Debug\net7.0\ref\media y cero.dll
