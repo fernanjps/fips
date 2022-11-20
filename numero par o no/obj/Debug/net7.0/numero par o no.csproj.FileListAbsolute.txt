@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\numero par o no\bin\Debug\net7.0\numero par o no.exe
+C:\Users\HP\Documents\visual estudio\numero par o no\bin\Debug\net7.0\numero par o no.deps.json
+C:\Users\HP\Documents\visual estudio\numero par o no\bin\Debug\net7.0\numero par o no.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\numero par o no\bin\Debug\net7.0\numero par o no.dll
+C:\Users\HP\Documents\visual estudio\numero par o no\bin\Debug\net7.0\numero par o no.pdb
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.dll
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\refint\numero par o no.dll
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.pdb
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\numero par o no.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\numero par o no\obj\Debug\net7.0\ref\numero par o no.dll
