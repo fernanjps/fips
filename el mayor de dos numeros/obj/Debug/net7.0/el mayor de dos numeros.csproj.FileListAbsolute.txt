@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\bin\Debug\net7.0\el mayor de dos numeros.exe
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\bin\Debug\net7.0\el mayor de dos numeros.deps.json
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\bin\Debug\net7.0\el mayor de dos numeros.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\bin\Debug\net7.0\el mayor de dos numeros.dll
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\bin\Debug\net7.0\el mayor de dos numeros.pdb
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.dll
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\refint\el mayor de dos numeros.dll
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.pdb
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\el mayor de dos numeros.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\el mayor de dos numeros\obj\Debug\net7.0\ref\el mayor de dos numeros.dll

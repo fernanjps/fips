@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\bin\Debug\net7.0\factorial de un numero n.exe
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\bin\Debug\net7.0\factorial de un numero n.deps.json
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\bin\Debug\net7.0\factorial de un numero n.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\bin\Debug\net7.0\factorial de un numero n.dll
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\bin\Debug\net7.0\factorial de un numero n.pdb
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.dll
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\refint\factorial de un numero n.dll
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.pdb
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\factorial de un numero n.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\factorial de un numero n\obj\Debug\net7.0\ref\factorial de un numero n.dll
