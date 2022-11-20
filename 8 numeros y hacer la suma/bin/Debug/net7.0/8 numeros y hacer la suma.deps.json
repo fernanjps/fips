@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "8 numeros y hacer la suma/1.0.0": {
+        "runtime": {
+          "8 numeros y hacer la suma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8 numeros y hacer la suma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

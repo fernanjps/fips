@@ -1,0 +1,30 @@
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.exe
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.deps.json
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.pdb
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\refint\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.pdb
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\8 numeros y hacer la suma\obj\Debug\net7.0\ref\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.exe
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.deps.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.runtimeconfig.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\bin\Debug\net7.0\8 numeros y hacer la suma.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.AssemblyInfo.cs
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\refint\8 numeros y hacer la suma.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\8 numeros y hacer la suma.genruntimeconfig.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\8 numeros y hacer la suma\obj\Debug\net7.0\ref\8 numeros y hacer la suma.dll

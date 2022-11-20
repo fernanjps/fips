@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\bin\Debug\net7.0\contar hasta ek cero.exe
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\bin\Debug\net7.0\contar hasta ek cero.deps.json
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\bin\Debug\net7.0\contar hasta ek cero.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\bin\Debug\net7.0\contar hasta ek cero.dll
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\bin\Debug\net7.0\contar hasta ek cero.pdb
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.dll
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\refint\contar hasta ek cero.dll
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.pdb
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\contar hasta ek cero.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\contar hasta ek cero\obj\Debug\net7.0\ref\contar hasta ek cero.dll

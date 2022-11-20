@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.AssemblyInfo.cs
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\visual estudio\cero\bin\Debug\net7.0\cero.exe
+C:\Users\HP\Documents\visual estudio\cero\bin\Debug\net7.0\cero.deps.json
+C:\Users\HP\Documents\visual estudio\cero\bin\Debug\net7.0\cero.runtimeconfig.json
+C:\Users\HP\Documents\visual estudio\cero\bin\Debug\net7.0\cero.dll
+C:\Users\HP\Documents\visual estudio\cero\bin\Debug\net7.0\cero.pdb
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.dll
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\refint\cero.dll
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.pdb
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\cero.genruntimeconfig.cache
+C:\Users\HP\Documents\visual estudio\cero\obj\Debug\net7.0\ref\cero.dll
