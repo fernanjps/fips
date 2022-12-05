@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\bin\Debug\PatronDecoratorC.exe.config
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\bin\Debug\PatronDecoratorC.exe
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\bin\Debug\PatronDecoratorC.pdb
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\obj\Debug\PatronDecoratorC.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\obj\Debug\PatronDecoratorC.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\obj\Debug\PatronDecoratorC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\obj\Debug\PatronDecoratorC.exe
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\patr-n-decorator-c-sharp-master\PatronDecoratorC\PatronDecoratorC\obj\Debug\PatronDecoratorC.pdb
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\bin\Debug\PatronDecoratorC.exe.config
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\bin\Debug\PatronDecoratorC.exe
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\bin\Debug\PatronDecoratorC.pdb
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\obj\Debug\PatronDecoratorC.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\obj\Debug\PatronDecoratorC.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\obj\Debug\PatronDecoratorC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\obj\Debug\PatronDecoratorC.exe
+C:\Users\HP\Documents\Visual Studio 2022\patr-n-decorator-c-sharp-master\PatronDecoratorC\obj\Debug\PatronDecoratorC.pdb
